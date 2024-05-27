@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2010.09.18 15:03:08.927.pas,C:\Users\MyIE\Documents\RAD Studio\Projects\Unit1.pas=D:\Programming\delfi_2010\__sc2tv_xml\UnitMain.pas</Transaction>
+    <Transaction>2010.09.18 15:03:08.927.dfm,C:\Users\MyIE\Documents\RAD Studio\Projects\Unit1.dfm=D:\Programming\delfi_2010\__sc2tv_xml\UnitMain.dfm</Transaction>
+    <Transaction>2010.09.18 15:05:57.322.dproj,C:\Users\MyIE\Documents\RAD Studio\Projects\Project1.dproj=D:\Programming\delfi_2010\__sc2tv_xml\sc2tv_xml.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

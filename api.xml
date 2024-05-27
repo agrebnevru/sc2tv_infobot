@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+<online>
+<stream>
+<id>18173</id>
+<title>Happy стрим</title>
+<description>&#13;</description>
+<preset>
+<source>CAHbKA.happy</source>
+<embed>&lt;object data="http://sc2tv.ru/player/player.swf" height="414" id="videoplayer3376" type="application/x-shockwave-flash" width="737"&gt;&lt;param name="allowFullScreen" value="true" /&gt;&lt;param name="allowScriptAccess" value="always" /&gt;&lt;param name="wmode" value="transparent" /&gt;&lt;param name="movie" value="http://sc2tv.ru/player/player.swf" /&gt;&lt;param name="flashvars" value="comment=rambler_online&amp;amp;st=http://sc2tv.ru/player/styles/video28-1241.txt&amp;amp;file=rtmp://fms.rambler.ru/live/cahbka" /&gt;&lt;/object&gt;</embed>
+</preset>
+<started>1285046340</started>
+</stream>
+</online>
+<future>
+<stream>
+<id>18163</id>
+<title>Team-KOTH SC:BW</title>
+<description>На прошлой неделе всё прошло очень задорно, хоть и быстро. Надеемся на интригу и смотрим классные игры сильнейших отечественных команд вместе с MaelStorm&amp;Olsior.</description>
+<time>1285169400</time>
+</stream>
+</future>
+<user_streams/>
+<news>
+<item>
+<id>18169</id>
+<title>Открытие 10 weeks Plantronics в этот четверг!</title>
+<link>http://sc2tv.ru/content/открытие-10-weeks-plantronics-в-этот-четверг</link>
+<teaser>Напоминаем, что в этот четверг состоится открытие турнира 10 weeks Plantronic в клубе 5,3 Ghz!</teaser>
+<date>1285013464</date>
+</item>
+<item>
+<id>18168</id>
+<title>РПЛ 2: Групповой турнир и анонс первого тура</title>
+<link>http://sc2tv.ru/content/рпл-2-групповой-турнир-и-анонс-первого-тура</link>
+<teaser>Не так давно закончился отборочный раунд РПЛ 2, и сейчас начинается самое интересное! Восемь сильнейших русскоязычных команд определят четырех самых достойных в групповом раунде, а затем в раунде плей-офф решится судьба призового фонда, который будет составлять не 10 тысяч рублей, а, возможно, куда больше! Напоминаем, что главным спонсором РПЛ является onelastgoodbye, передавший 10 тысяч рублей, но сейчас спонсором турнира можете стать и вы! Подробнее - внутри новости.Первый тур основного раунда РПЛ 2 начинается уже в этот вторник:imba vs RoX.KIS - Вторник, 20-00 (комментирует babymagiK)iP vs Empire - Вторник, 22-00 (комментирует Levorgo)</teaser>
+<date>1285005709</date>
+</item>
+<item>
+<id>18166</id>
+<title>Рейтинг SC2TV от 19.09.2010</title>
+<link>http://sc2tv.ru/content/рейтинг-sc2tv-от-19092010</link>
+<teaser>Очередная турнирная неделя принесла в рейтинг два заметных взлета. Во-первых, mouz.MaNa, выиграв в понедельник Go4SC2 #37, второй подряд, кстати, поднялся сразу на седьмое место. Тем самым, теперь представительство команды Mousesports в топ-10 достигло четырех человек. Во-вторых, Fnatic.LucifroN, умудрившийся вчера одновременно выиграть Зотак и дойти до финала ЕСЛ, поднялся из пятого десятка на шестнадцатое место.</teaser>
+<date>1284973181</date>
+</item>
+<item>
+<id>18164</id>
+<title>Старые Кости: Асмо Действо</title>
+<link>http://sc2tv.ru/content/старые-кости-асмо-действо</link>
+<teaser>Не проходите мимо, ненавистники SC:BW! У нас есть кое-что интересное даже для Вас!</teaser>
+<date>1284947100</date>
+</item>
+<item>
+<id>18162</id>
+<title>Отчёт с ES-Gaming LAN Cup Petersburg</title>
+<link>http://sc2tv.ru/content/отчёт-с-es-gaming-lan-cup-petersburg</link>
+<teaser>В эту субботу в Северной столице нашей великой и необъятной Родины прошел LAN турнир по SC2: WoL. Состоялся он в местечке с прохладным названием "Арктика". И, скажу я вам, дорогие друзья, там было ничуть не холодно. Более 20 игроков сошлись в неравном бою за мышк... звание лучшего игрока Санкт-Петербурга по версии ES-Gaming.Отчёт и фотографии внутри новости!</teaser>
+<date>1284919739</date>
+</item>
+</news>
+</root>
